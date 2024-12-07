@@ -1,1 +1,1 @@
-# Py.projects
+# python's ped-projects
